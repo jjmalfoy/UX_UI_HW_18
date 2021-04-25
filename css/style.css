@@ -1,0 +1,130 @@
+.info-banner {
+    width: 100%;
+    height: 1069px;
+    left: 0px;
+    top: 0px;
+    background: #D5E2FD;
+}
+
+.description {
+    padding: 10px;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 79px;
+}
+
+.content {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+
+#navigation-button {
+    /* This controls how the button looks*/
+    width: 157px;
+    height: 74px;
+    left: 1277px;
+    top: 25px;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 53px;
+    color: #000000;
+}
+
+#parent-button {
+    position: absolute;
+    width: 157px;
+    height: 74px;
+    left: 1550px;
+    top: 25px;
+}
+
+#info-bubble1 {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 600x;
+    height: 500x;
+    background: #D8BDDA;
+    border: 25px solid #E03125;
+    outline: 25px solid #ADAB37
+    }
+
+#author {
+    text-align: center;
+    font-family: Roboto Mono;
+    font-size: 130px;
+    line-height: 171px;
+    color: #000000;
+}
+
+#info-bubble2 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 100px;
+    top: 600px;
+    background: #D8BDDA;
+    border: 25px solid #E03125;
+    outline: 25px solid #ADAB37;
+}
+
+#skills {
+    text-align: center;
+    padding: 10px;
+}
+
+#info-bubble3 {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    right: 100px;
+    top: 400px;
+    background:  #D8BDDA;
+    border: 25px solid #E03125;
+    outline: 25px solid #ADAB37;
+}
+
+.projects-scroll {
+    width: 100%;
+    padding: 5px;
+}
+
+.project-image {
+    display: inline-block;
+    margin-left: 50%;
+    margin-right: auto;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.projects {
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 53px;
+    color: #000000;
+}
+
+.project-content {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 500px;
+    position: relative;
+}
